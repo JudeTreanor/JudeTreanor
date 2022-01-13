@@ -14,20 +14,14 @@
 
 <p align="center">
 <img width="400" src="https://github.com/JudeTreanor/365-Alert/blob/main/Home.jpg" />
-<img width="400" src="https://github.com/JudeTreanor/365-Alert/blob/main/Home.jpg" />
+<img width="400" src="https://github.com/JudeTreanor/Weather-App/blob/master/Weather%20App%20pic.JPG" />
  <a href="https://github.com/JudeTreanor/365-Alert">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JudeTreanor&repo=365-Alert&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <a href="https://github.com/JudeTreanor/Weather-App">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JudeTreanor&repo=Weather-App&theme=tokyonight" />
 </a>
-<img width="400" src="https://github.com/DiogoJCA/PHP_Login_System_OOP/blob/main/cover.png" />
 <br />
-<a href="https://github.com/DiogoJCA/PHP_Login_System_OOP">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_Login_System_OOP&theme=tokyonight" />
-</a>
-<br >
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJCA&langs_count=10&layout=compact" /> -->
 </p>
 <br />
